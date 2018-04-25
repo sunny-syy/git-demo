@@ -2,3 +2,4 @@ this is a test txt.
 this is dev branch.
 this is modified on master branch.
 modify test.txt on master.
+what can i do for you when conflict?
